@@ -1,4 +1,4 @@
-﻿namespace tictac_toe
+﻿namespace TicTacToe
 {
     partial class Form1
     {
